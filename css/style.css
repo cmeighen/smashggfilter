@@ -1,0 +1,28 @@
+.body {
+  width: 300px;
+}
+
+.popup-header {
+  width: 290px;
+  font-size: 16px;
+  margin: inherit;
+  font-family: 'Teko', sans-serif;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.region-list-header {
+  width: 290px;
+  margin: auto;
+  padding-bottom: 10px;
+  font-weight: 800;
+}
+
+.region-list {
+  width: 290px;
+}
+
+label {
+  width: 140px;
+  display: inline-block;
+}
