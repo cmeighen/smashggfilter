@@ -1,6 +1,6 @@
 # smash.gg Tournament Filter
 
-## description
+## Description
 
   This chrome extension allows smash.gg users to filter the list of tournament cards by location. It utilizes Javascript, html, css, and the chrome extension apis to manipulate DOM data.
 
